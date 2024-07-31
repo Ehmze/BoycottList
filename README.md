@@ -1,7 +1,7 @@
 # BoycottList
 A simple boycott list to keep blood out of your shopping cart
 
-Original work by @FreePalestine1948
+🇵🇸 Original work by @FreePalestine1948
 
 Modifications made: 
 - UI
