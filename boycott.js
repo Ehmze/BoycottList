@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
         boycottList = JSON.parse(cachedBoycottList);
     } else {
         // Load list of brands on page load
-        fetch('/static/granddata.json')
+        fetch('granddata.json')
         .then(response => response.json())
         .then(data => {
             boycottList = data.map(item => ({
